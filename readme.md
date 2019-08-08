@@ -4,14 +4,29 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+<!-- MDTOC maxdepth:6 firsth1:2 numbering:0 flatten:0 bullets:1 updateOnSave:1 -->
 
-## Introduction
+- [Contents](#contents)   
+- [Literature](#literature)   
+- [Repositories](#repositories)   
+- [Meta Data](#meta-data)   
+- [Search Engines](#search-engines)   
+- [RSE Associations](#rse-associations)   
+- [RSE Conferences](#rse-conferences)   
+   - [2019](#2019)   
+   - [2018](#2018)   
+   - [2017](#2017)   
+- [Software Sustainability Institutes](#software-sustainability-institutes)   
+- [Working Groups](#working-groups)   
+- [National Initiatives](#national-initiatives)   
+   - [DE:](#de)   
+- [Educational Resources](#educational-resources)   
+- [Contribute](#contribute)   
+- [License](#license)   
 
-In this list, I collect relevant information around the subject _Research Software_ and _Research Software Engineering_.
+<!-- /MDTOC -->
 
-## Literature
+ ## Literature
 
 Different collections of relevant RSE literature:
 
@@ -21,24 +36,31 @@ Different collections of relevant RSE literature:
 
 ## Repositories
 
-This is where we collect repositories that capture software.
+This is where we list repositories that collect software.
 
-- Zenodo (type=software): <https://zenodo.org/search?page=1&size=20&q=&type=software>
-- DataCite: <https://search.datacite.org/works?query=&resource-type-id=software>
+- [DataCite](https://search.datacite.org/works?query=&resource-type-id=software)
+- [Software Heritage](https://www.softwareheritage.org/)
+- [Zenodo (type=software)](https://zenodo.org/search?page=1&size=20&q=&type=software)
 
 ## Meta Data
 
+This is where we list information about meta data for research software
+
 - CFF - Citation File Format: <https://citation-file-format.github.io/>
+- CiteAs: <http://citeas.org/>
 - CodeMeta: <https://codemeta.github.io/>
 - DOAP - Description Of A Project: <https://github.com/ewilderj/doap>
-- CiteAs: <http://citeas.org/>
 
 ## Search Engines
+
+...with options to explicitely search for software
 
 - BASE: [Document type = Software](https://www.base-search.net/Search/Results?type=all&lookfor=doctype%3A6&ling=0&oaboost=1&name=&thes=&refid=dcresen&newsearch=1)
 - WorldWideScience: [Results Tab: Data/Software](https://worldwidescience.org/)
 
 ## RSE Associations
+
+RSE Associations around the globe
 
 - AU/NZ: <https://rse-aunz.github.io/>
 - DE: <https://www.de-rse.org/>
@@ -46,64 +68,69 @@ This is where we collect repositories that capture software.
 - UK: <https://rse.ac.uk/>
 - USA: <https://us-rse.org/>
 
+## RSE Conferences
+
+RSE Conferences sorted by year descending
+
+### 2019
+
+- [RSEConUK](https://rse.ac.uk/conf2019/)
+- [deRSE19](https://www.de-rse.org/en/conf2019/)
+
+### 2018
+
+- [RSEConUK](https://rse.ac.uk/conf2018/)
+
+### 2017
+
+- [RSEConUK](https://rse.ac.uk/conf2017/)
+
 ## Software Sustainability Institutes
 
-- UK: <https://www.software.ac.uk/>
+SSIs around the globe
+
 - NL: <https://www.esciencecenter.nl/>
-- Global: <http://www.researchsoft.org>
+- UK: <https://www.software.ac.uk/>
 
 ## Working Groups
+
+Working groups around the globe that deal with research software engineers and engineering topics.
 
 - International
 
   - [Force 11: Software Citation Implementation Working Group](https://www.force11.org/group/software-citation-implementation-working-group)
   - [RDA: Data Citation Work Group](https://rd-alliance.org/groups/data-citation-wg.html)
 
-- Helmholtz Gesellschaft
+- DE
 
-  - [Arbeitskreis Open Science](https://os.helmholtz.de/open-science-in-der-helmholtz-gemeinschaft/akteure-und-ihre-rollen/arbeitskreis-open-science/)
+  - Helmholtz Gesellschaft
 
-- Leibnitz Gemeinschaft
+    - [Arbeitskreis Open Science](https://os.helmholtz.de/open-science-in-der-helmholtz-gemeinschaft/akteure-und-ihre-rollen/arbeitskreis-open-science/)
 
-- MPI
+  - Leibnitz Gemeinschaft
 
-- Fraunhofer
+  - MPI
+
+  - Fraunhofer
 
 ## National Initiatives
 
 ### DE:
 
-- NFDI: <>
+- [NFDI]()
 
-  - RSE4NFDI: <https://www.rse4nfdi.de>
+  - [RSE4NFDI](https://www.rse4nfdi.de)
 
-- RFII: <http://www.rfii.de>
+- [RFII](http://www.rfii.de)
 
-- ...
-
-## Open Source
-
-- [opensource.guide](https://opensource.guide/)
+- [Schwerpunktinitiative "Digitale Information"](https://www.allianzinitiative.de/fields-of-action-projects/digital-tools-software-and-services/?lang=en)
 
 ## Educational Resources
 
+...about becoming an RSE by learning how to program and use software
+
+- [Awesome List - Learn to program](https://github.com/karlhorky/learn-to-program)
 - [Teaching Tech Together](http://teachtogether.tech/)
-- [Programming Historian]()
-- [Carpentries](https://carpentries.org/)
-
-  - Software: <https://software-carpentry.org/>
-  - Data: <http://datacarpentry.org/>
-  - Library: <https://librarycarpentry.org>
-
-- [Excercism.io](https://exercism.io/)
-
-- Python
-
-  - ...
-
-- R
-
-  - ...
 
 ## Contribute
 
