@@ -1,28 +1,35 @@
 # Awesome RSE [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated awesome list of resources for Research Software Engineers and Engineering (RSE)
+> A curated awesome list of resources for Research Software Engineers and Engineering (RSE). Inspired by [these curated collections](https://github.com/sindresorhus/awesome). Also note [awesome-library](https://github.com/ubleipzig/awesome-library) for a list of software resources for library use.
 
 ## Contents
 
 <!-- MDTOC maxdepth:6 firsth1:2 numbering:0 flatten:0 bullets:1 updateOnSave:1 -->
 
-- [Contents](#contents)   
-- [Literature](#literature)   
-- [Repositories](#repositories)   
-- [Meta Data](#meta-data)   
-- [Search Engines](#search-engines)   
-- [RSE Associations](#rse-associations)   
-- [RSE Conferences](#rse-conferences)   
-   - [2019](#2019)   
-   - [2018](#2018)   
-   - [2017](#2017)   
-- [Software Sustainability Institutes](#software-sustainability-institutes)   
-- [Working Groups](#working-groups)   
-- [National Initiatives](#national-initiatives)   
-   - [DE:](#de)   
-- [Educational Resources](#educational-resources)   
-- [Contribute](#contribute)   
-- [License](#license)   
+ - [Contents](#contents)
+
+  - [Literature](#literature)
+  - [Repositories](#repositories)
+  - [Meta Data](#meta-data)
+  - [Search Engines](#search-engines)
+  - [RSE Associations](#rse-associations)
+  - [RSE Conferences](#rse-conferences)
+
+  - [2019](#2019)
+
+  - [2018](#2018)
+  - [2017](#2017)
+
+- [Software Sustainability Institutes](#software-sustainability-institutes)
+- [Working Groups](#working-groups)
+- [National Initiatives](#national-initiatives)
+
+  - [DE:](#de)
+
+- [Educational Resources](#educational-resources)
+
+- [Contribute](#contribute)
+- [License](#license)
 
 <!-- /MDTOC -->
 
@@ -46,10 +53,13 @@ This is where we list repositories that collect software.
 
 This is where we list information about meta data for research software
 
-- CFF - Citation File Format: <https://citation-file-format.github.io/>
-- CiteAs: <http://citeas.org/>
-- CodeMeta: <https://codemeta.github.io/>
-- DOAP - Description Of A Project: <https://github.com/ewilderj/doap>
+- [CFF - Citation File Format](https://citation-file-format.github.io/)
+- [CiteAs](http://citeas.org/)
+- [CodeMeta](https://codemeta.github.io/)
+- [DOAP - Description Of A Project](https://github.com/ewilderj/doap)
+- [Asset Description Metadata Schema for Software (ADMS.SW)](https://joinup.ec.europa.eu/svn/adms_foss/adms_sw_v1.00/adms_sw_v1.00.htm)
+- [Schema.org - SoftwareSourceCode](https://schema.org/SoftwareSourceCode)
+- [Schema.org - SoftwareApplication](https://schema.org/SoftwareApplication)
 
 ## Search Engines
 
@@ -60,12 +70,13 @@ This is where we list information about meta data for research software
 
 ## RSE Associations
 
+
 RSE Associations around the globe
 
 - AU/NZ: <https://rse-aunz.github.io/>
 - DE: <https://www.de-rse.org/>
 - Scandinavia: <http://nordic-rse.org/>
-- UK: <https://rse.ac.uk/>
+- UK: <https://rse.ac.uk/><https://society-rse.org>
 - USA: <https://us-rse.org/>
 
 ## RSE Conferences
