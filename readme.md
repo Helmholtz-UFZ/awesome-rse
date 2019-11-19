@@ -5,25 +5,19 @@
 ## Contents
 
 <!-- MDTOC maxdepth:6 firsth1:2 numbering:0 flatten:0 bullets:1 updateOnSave:1 -->
-
- - [Contents](#contents)
-
-  - [Literature](#literature)
-  - [Repositories](#repositories)
-  - [Meta Data](#meta-data)
-  - [Search Engines](#search-engines)
-  - [RSE Associations](#rse-associations)
-  - [RSE Conferences](#rse-conferences)
-
+- [Literature](#literature)
+- [Repositories](#repositories)
+- [Meta Data](#meta-data)
+- [Search Engines](#search-engines)
+- [RSE Associations](#rse-associations)
+- [RSE Conferences](#rse-conferences)
   - [2019](#2019)
-
   - [2018](#2018)
   - [2017](#2017)
 
 - [Software Sustainability Institutes](#software-sustainability-institutes)
 - [Working Groups](#working-groups)
 - [National Initiatives](#national-initiatives)
-
   - [DE:](#de)
 
 - [Educational Resources](#educational-resources)
@@ -36,7 +30,6 @@
  ## Literature
 
 Different collections of relevant RSE literature:
-
 - Zotero Group RSE: <https://www.zotero.org/groups/2295543>
 - Zenodo Community Research Software: <https://zenodo.org/communities/researchsoftwarestudies>
 - Zenodo Community deRSE: <https://zenodo.org/communities/de-rse/>
@@ -44,7 +37,6 @@ Different collections of relevant RSE literature:
 ## Repositories
 
 This is where we list repositories that collect software.
-
 - [DataCite](https://search.datacite.org/works?query=&resource-type-id=software)
 - [Software Heritage](https://www.softwareheritage.org/)
 - [Zenodo (type=software)](https://zenodo.org/search?page=1&size=20&q=&type=software)
@@ -52,7 +44,6 @@ This is where we list repositories that collect software.
 ## Meta Data
 
 This is where we list information about meta data for research software
-
 - [CFF - Citation File Format](https://citation-file-format.github.io/)
 - [CiteAs](http://citeas.org/)
 - [CodeMeta](https://codemeta.github.io/)
@@ -72,7 +63,6 @@ This is where we list information about meta data for research software
 
 
 RSE Associations around the globe
-
 - AU/NZ: <https://rse-aunz.github.io/>
 - DE: <https://www.de-rse.org/>
 - Scandinavia: <http://nordic-rse.org/>
@@ -84,22 +74,18 @@ RSE Associations around the globe
 RSE Conferences sorted by year descending
 
 ### 2019
-
 - [RSEConUK](https://rse.ac.uk/conf2019/)
 - [deRSE19](https://www.de-rse.org/en/conf2019/)
 
 ### 2018
-
 - [RSEConUK](https://rse.ac.uk/conf2018/)
 
 ### 2017
-
 - [RSEConUK](https://rse.ac.uk/conf2017/)
 
 ## Software Sustainability Institutes
 
 SSIs around the globe
-
 - NL: <https://www.esciencecenter.nl/>
 - UK: <https://www.software.ac.uk/>
 
@@ -108,14 +94,11 @@ SSIs around the globe
 Working groups around the globe that deal with research software engineers and engineering topics.
 
 - International
-
   - [Force 11: Software Citation Implementation Working Group](https://www.force11.org/group/software-citation-implementation-working-group)
   - [RDA: Data Citation Work Group](https://rd-alliance.org/groups/data-citation-wg.html)
 
 - DE
-
   - Helmholtz Gesellschaft
-
     - [Arbeitskreis Open Science](https://os.helmholtz.de/open-science-in-der-helmholtz-gemeinschaft/akteure-und-ihre-rollen/arbeitskreis-open-science/)
 
   - Leibnitz Gemeinschaft
@@ -129,11 +112,8 @@ Working groups around the globe that deal with research software engineers and e
 ### DE:
 
 - [NFDI]()
-
   - [RSE4NFDI](https://www.rse4nfdi.de)
-
 - [RFII](http://www.rfii.de)
-
 - [Schwerpunktinitiative "Digitale Information"](https://www.allianzinitiative.de/fields-of-action-projects/digital-tools-software-and-services/?lang=en)
 
 ## Educational Resources
