@@ -73,6 +73,9 @@ RSE Associations around the globe
 
 RSE Conferences sorted by year descending
 
+### 2020
+- [deRSE20](https://de-rse.org/deRSE20//)
+
 ### 2019
 - [RSEConUK](https://rse.ac.uk/conf2019/)
 - [deRSE19](https://www.de-rse.org/en/conf2019/)
