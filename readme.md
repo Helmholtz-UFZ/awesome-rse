@@ -111,6 +111,7 @@ Working groups around the globe that deal with research software engineers and e
 
 ### DE:
 
+- [de-RSE e.V. - Society for Research Software](https://de-rse.org)
 - [NFDI]()
   - [RSE4NFDI](https://www.rse4nfdi.de)
 - [RFII](http://www.rfii.de)
