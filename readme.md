@@ -24,25 +24,21 @@
 
 - [Contribute](#contribute)
 - [License](#license)
-
 <!-- /MDTOC -->
 
- ## Literature
-
+## Literature
 Different collections of relevant RSE literature:
 - Zotero Group RSE: <https://www.zotero.org/groups/2295543>
 - Zenodo Community Research Software: <https://zenodo.org/communities/researchsoftwarestudies>
 - Zenodo Community deRSE: <https://zenodo.org/communities/de-rse/>
 
 ## Repositories
-
 This is where we list repositories that collect software.
 - [DataCite](https://search.datacite.org/works?query=&resource-type-id=software)
 - [Software Heritage](https://www.softwareheritage.org/)
 - [Zenodo (type=software)](https://zenodo.org/search?page=1&size=20&q=&type=software)
 
 ## Meta Data
-
 This is where we list information about meta data for research software
 - [CFF - Citation File Format](https://citation-file-format.github.io/)
 - [CiteAs](http://citeas.org/)
@@ -53,33 +49,32 @@ This is where we list information about meta data for research software
 - [Schema.org - SoftwareApplication](https://schema.org/SoftwareApplication)
 
 ## Search Engines
-
 ...with options to explicitely search for software
 
 - BASE: [Document type = Software](https://www.base-search.net/Search/Results?type=all&lookfor=doctype%3A6&ling=0&oaboost=1&name=&thes=&refid=dcresen&newsearch=1)
 - WorldWideScience: [Results Tab: Data/Software](https://worldwidescience.org/)
 
 ## RSE Associations
-
-
 RSE Associations around the globe
 - AU/NZ: <https://rse-aunz.github.io/>
 - DE: <https://www.de-rse.org/>
 - Scandinavia: <http://nordic-rse.org/>
 - UK: <https://rse.ac.uk/><https://society-rse.org>
 - USA: <https://us-rse.org/>
+- NL: <https://nl-rse.org/>
 
 ## RSE Conferences
-
 RSE Conferences sorted by year descending
 
 ### 2020
 - [RSECon2020](https://rsecon2020.society-rse.org/)
 - [deRSE20](https://de-rse.org/deRSE20/)
+- [Nordic-RSE conference 2020](https://nordic-rse.org/conference)
 
 ### 2019
 - [RSEConUK](https://rse.ac.uk/conf2019/)
 - [deRSE19](https://www.de-rse.org/en/conf2019/)
+- [NL-RSE19](https://nl-rse.org/events/NL-RSE19.html)
 
 ### 2018
 - [RSEConUK](https://rse.ac.uk/conf2018/)
@@ -88,13 +83,11 @@ RSE Conferences sorted by year descending
 - [RSEConUK](https://rse.ac.uk/conf2017/)
 
 ## Software Sustainability Institutes
-
 SSIs around the globe
 - NL: <https://www.esciencecenter.nl/>
 - UK: <https://www.software.ac.uk/>
 
 ## Working Groups
-
 Working groups around the globe that deal with research software engineers and engineering topics.
 
 - International
@@ -112,27 +105,22 @@ Working groups around the globe that deal with research software engineers and e
   - Fraunhofer
 
 ## National Initiatives
-
 ### DE:
-
 - [NFDI]()
   - [RSE4NFDI](https://www.rse4nfdi.de)
 - [RFII](http://www.rfii.de)
 - [Schwerpunktinitiative "Digitale Information"](https://www.allianzinitiative.de/fields-of-action-projects/digital-tools-software-and-services/?lang=en)
 
 ## Educational Resources
-
 ...about becoming an RSE by learning how to program and use software
 
 - [Awesome List - Learn to program](https://github.com/karlhorky/learn-to-program)
 - [Teaching Tech Together](http://teachtogether.tech/)
 
 ## Contribute
-
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## License
-
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, Ronny Gey has waived all copyright and related or neighboring rights to this work.
