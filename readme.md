@@ -33,10 +33,7 @@ Different collections of relevant RSE literature:
 - Zenodo Community deRSE: <https://zenodo.org/communities/de-rse/>
 
 ## Repositories
-This is where we list repositories that collect software.
-- [DataCite](https://search.datacite.org/works?query=&resource-type-id=software)
-- [Software Heritage](https://www.softwareheritage.org/)
-- [Zenodo (type=software)](https://zenodo.org/search?page=1&size=20&q=&type=software)
+This is where we ~~list repositories that collect software.~~ point to another awesome list of the Netherlands eScience Center: [Research Software Registries](https://github.com/NLeSC/awesome-research-software-registries) 
 
 ## Meta Data
 This is where we list information about meta data for research software
