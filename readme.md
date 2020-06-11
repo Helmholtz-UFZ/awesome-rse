@@ -10,6 +10,7 @@
 - [Meta Data](#meta-data)
 - [Search Engines](#search-engines)
 - [RSE Associations](#rse-associations)
+- [RSE Groups](#rse-groups)
 - [RSE Conferences](#rse-conferences)
   - [2019](#2019)
   - [2018](#2018)
@@ -60,6 +61,10 @@ RSE Associations around the globe
 - UK: <https://rse.ac.uk/><https://society-rse.org>
 - USA: <https://us-rse.org/>
 - NL: <https://nl-rse.org/>
+
+## RSE Groups
+RSE Groups around the globe
+- DE: <https://pad.gwdg.de/M0F4dmG9SoiEaORnZr-jmg?view>
 
 ## RSE Conferences
 RSE Conferences sorted by year descending
