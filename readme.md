@@ -42,6 +42,7 @@ This is where we list information about meta data for research software
 - [CiteAs](http://citeas.org/)
 - [CodeMeta](https://codemeta.github.io/)
 - [DOAP - Description Of A Project](https://github.com/ewilderj/doap)
+- [EDAM Ontology (Bioinformatics)](http://edamontology.org/page)
 - [Asset Description Metadata Schema for Software (ADMS.SW)](https://joinup.ec.europa.eu/svn/adms_foss/adms_sw_v1.00/adms_sw_v1.00.htm)
 - [Schema.org - SoftwareSourceCode](https://schema.org/SoftwareSourceCode)
 - [Schema.org - SoftwareApplication](https://schema.org/SoftwareApplication)
