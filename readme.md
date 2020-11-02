@@ -15,6 +15,7 @@
   - [2017](#2017)
 - [Software Sustainability Institutes](#software-sustainability-institutes)
 - [Working Groups](#working-groups)
+- [International Initiatives](#international-initiatives)
 - [National Initiatives](#national-initiatives)
   - [DE:](#de)
 - [Educational Resources](#educational-resources)
