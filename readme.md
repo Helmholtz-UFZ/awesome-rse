@@ -3,8 +3,6 @@
 > A curated awesome list of resources for Research Software Engineers and Engineering (RSE). Inspired by [these curated collections](https://github.com/sindresorhus/awesome). Also note [awesome-library](https://github.com/ubleipzig/awesome-library) for a list of software resources for library use.
 
 ## Contents
-
-<!-- MDTOC maxdepth:6 firsth1:2 numbering:0 flatten:0 bullets:1 updateOnSave:1 -->
 - [Literature](#literature)
 - [Repositories](#repositories)
 - [Meta Data](#meta-data)
@@ -15,17 +13,13 @@
   - [2019](#2019)
   - [2018](#2018)
   - [2017](#2017)
-
 - [Software Sustainability Institutes](#software-sustainability-institutes)
 - [Working Groups](#working-groups)
 - [National Initiatives](#national-initiatives)
   - [DE:](#de)
-
 - [Educational Resources](#educational-resources)
-
 - [Contribute](#contribute)
 - [License](#license)
-<!-- /MDTOC -->
 
 ## Literature
 Different collections of relevant RSE literature:
@@ -108,6 +102,9 @@ Working groups around the globe that deal with research software engineers and e
   - MPI
 
   - Fraunhofer
+
+## International Initiatives
+- [FAIR4RS](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg)
 
 ## National Initiatives
 ### DE:
