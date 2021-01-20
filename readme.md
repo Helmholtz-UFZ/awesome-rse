@@ -62,14 +62,19 @@ RSE Associations around the globe
 ## RSE Groups
 RSE Groups around the globe
 - DE: <https://pad.gwdg.de/M0F4dmG9SoiEaORnZr-jmg?view>
+- UK: <https://docs.google.com/spreadsheets/d/e/2PACX-1vTd_AgELhvKd4FXDyAWI8L2WWNtAqxPElo334KZLEZWA4Ze5yOKDtwA2DE5crwNsCu8s7Cd8oAsgr5s/pubhtml>
 
 ## RSE Conferences
 RSE Conferences sorted by year descending
 
+### 2021
+- [SORSE](https://sorse.github.io/)
+
 ### 2020
-- [RSECon2020](https://rsecon2020.society-rse.org/)
 - [deRSE20](https://de-rse.org/deRSE20/)
 - [Nordic-RSE conference 2020](https://nordic-rse.org/conference)
+- [RSECon2020](https://rsecon2020.society-rse.org/)
+- [SORSE](https://sorse.github.io/)
 
 ### 2019
 - [RSEConUK](https://rse.ac.uk/conf2019/)
