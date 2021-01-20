@@ -10,6 +10,8 @@
 - [RSE Associations](#rse-associations)
 - [RSE Groups](#rse-groups)
 - [RSE Conferences](#rse-conferences)
+  - [2021](#2021)
+  - [2020](#2020)
   - [2019](#2019)
   - [2018](#2018)
   - [2017](#2017)
