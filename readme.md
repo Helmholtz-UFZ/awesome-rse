@@ -113,6 +113,7 @@ Working groups around the globe that deal with research software engineers and e
 
 ## International Initiatives
 - [FAIR4RS](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg)
+- [Research Software Alliance](https://www.researchsoft.org/)
 
 ## National Initiatives
 ### DE:
