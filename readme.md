@@ -71,6 +71,7 @@ RSE Conferences sorted by year descending
 
 ### 2021
 - [SORSE](https://sorse.github.io/)
+- [SeptembRSE 2021](https://septembrse.society-rse.org)
 
 ### 2020
 - [deRSE20](https://de-rse.org/deRSE20/)
@@ -95,7 +96,7 @@ SSIs around the globe
 - UK: <https://www.software.ac.uk/>
 
 ## Working Groups
-Working groups around the globe that deal with research software engineers and engineering topics.
+Working groups around the globe that deal with research software engineers and engineering topics. This section is quite work in progress. Here is another [curated list of GitHub organizations that primarily serve open source or academic software projects](https://github.com/rseng/awesome-rseng).
 
 - International
   - [Force 11: Software Citation Implementation Working Group](https://www.force11.org/group/software-citation-implementation-working-group)
