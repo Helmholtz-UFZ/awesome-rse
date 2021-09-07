@@ -72,6 +72,7 @@ RSE Conferences sorted by year descending
 ### 2021
 - [SORSE](https://sorse.github.io/)
 - [SeptembRSE 2021](https://septembrse.society-rse.org)
+- [NeSI - New Zealand Research Software Engineering Conference](https://www.rseconference.nz/programme-tabs1/#tabs|1)
 
 ### 2020
 - [deRSE20](https://de-rse.org/deRSE20/)
