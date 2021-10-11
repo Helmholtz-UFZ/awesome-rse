@@ -53,6 +53,7 @@ This is where we list information about meta data for research software
 
 ## RSE Associations
 RSE Associations around the globe
+- Asia: <https://rse-asia.github.io/RSE_Asia/>
 - AU/NZ: <https://rse-aunz.github.io/>
 - BE: <https://www.be-rse.org/>
 - DE: <https://www.de-rse.org/>
