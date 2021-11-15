@@ -27,6 +27,7 @@
 ## Literature
 Different collections of relevant RSE literature:
 - Zotero Group RSE: <https://www.zotero.org/groups/2295543>
+- Zotero Group FAIR4RS: >https://www.zotero.org/groups/2501020/fair4rs/items/6H833P3W/library>
 - Zenodo Community Research Software: <https://zenodo.org/communities/researchsoftwarestudies>
 - Zenodo Community deRSE: <https://zenodo.org/communities/de-rse/>
 
