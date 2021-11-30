@@ -131,6 +131,7 @@ Working groups around the globe that deal with research software engineers and e
 
 - [Awesome List - Learn to program](https://github.com/karlhorky/learn-to-program)
 - [Teaching Tech Together](http://teachtogether.tech/)
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
