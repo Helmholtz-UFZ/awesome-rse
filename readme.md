@@ -49,8 +49,8 @@ This is where we list information about meta data for research software
 ...with options to explicitely search for software
 
 - BASE: [Document type = Software](https://www.base-search.net/Search/Results?type=all&lookfor=doctype%3A6&ling=0&oaboost=1&name=&thes=&refid=dcresen&newsearch=1)
-- WorldWideScience: [Results Tab: Data/Software](https://worldwidescience.org/)
 - DataCite: [resource-type-id=software](https://search.datacite.org/works?query=&resource-type-id=software)
+- WorldWideScience: [Results Tab: Data/Software](https://worldwidescience.org/)
 
 ## RSE Associations
 RSE Associations around the globe
