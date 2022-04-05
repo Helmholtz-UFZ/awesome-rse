@@ -1,5 +1,7 @@
 # Awesome RSE [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+**This repository has moved to**: https://github.com/hifis-net/awesome-rse
+
 > A curated awesome list of resources for Research Software Engineers and Engineering (RSE). Inspired by [these curated collections](https://github.com/sindresorhus/awesome). Also note [awesome-library](https://github.com/ubleipzig/awesome-library) for a list of software resources for library use.
 
 ## Contents
